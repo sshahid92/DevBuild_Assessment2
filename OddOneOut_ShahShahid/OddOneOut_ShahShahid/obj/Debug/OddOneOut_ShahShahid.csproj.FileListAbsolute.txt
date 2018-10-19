@@ -1,0 +1,7 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\bin\Debug\OddOneOut_ShahShahid.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\bin\Debug\OddOneOut_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\bin\Debug\OddOneOut_ShahShahid.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\obj\Debug\OddOneOut_ShahShahid.csprojAssemblyReference.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\obj\Debug\OddOneOut_ShahShahid.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\obj\Debug\OddOneOut_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\OddOneOut_ShahShahid\OddOneOut_ShahShahid\obj\Debug\OddOneOut_ShahShahid.pdb

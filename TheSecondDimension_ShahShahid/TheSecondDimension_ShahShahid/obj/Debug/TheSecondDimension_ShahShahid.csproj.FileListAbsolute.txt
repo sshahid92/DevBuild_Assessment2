@@ -1,0 +1,7 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\bin\Debug\TheSecondDimension_ShahShahid.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\bin\Debug\TheSecondDimension_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\bin\Debug\TheSecondDimension_ShahShahid.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\obj\Debug\TheSecondDimension_ShahShahid.csprojAssemblyReference.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\obj\Debug\TheSecondDimension_ShahShahid.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\obj\Debug\TheSecondDimension_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\TheSecondDimension_ShahShahid\TheSecondDimension_ShahShahid\obj\Debug\TheSecondDimension_ShahShahid.pdb

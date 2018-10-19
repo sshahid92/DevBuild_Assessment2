@@ -1,0 +1,7 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\bin\Debug\ToTheMax_Shah.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\bin\Debug\ToTheMax_Shah.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\bin\Debug\ToTheMax_Shah.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\obj\Debug\ToTheMax_Shah.csprojAssemblyReference.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\obj\Debug\ToTheMax_Shah.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\obj\Debug\ToTheMax_Shah.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_2\ToTheMax_Shah\ToTheMax_Shah\obj\Debug\ToTheMax_Shah.pdb
